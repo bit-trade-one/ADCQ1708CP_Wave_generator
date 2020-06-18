@@ -15,6 +15,10 @@
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/assemblydisk/adcq1708cp/)!
 
+## [PCアプリ](https://github.com/bit-trade-one/ADCQ1708CK_Wave_generator_kit/tree/master/App)
+
+## [マニュアル](https://github.com/bit-trade-one/ADCQ1708CK_Wave_generator_kit/blob/master/Manual/WaveGenerator_Manual.pdf)
+
 ## 測定性能仕様
 
 波形は正弦波と矩形波と三角波のいずれかを出力し、同時にDCレベルの信号も出力可能です。  
